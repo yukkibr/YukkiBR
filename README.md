@@ -19,6 +19,12 @@
 
 - ⚡ Fun fact **I'm trying to be a game developer!**
 
+- <div align="center">
+  <a href="https://github.com/yukkibr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yukkibr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eduuh_campos20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduuh_campos20" height="30" width="40" /></a>
