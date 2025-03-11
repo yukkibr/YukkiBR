@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **FiveM And MTA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yukkibr](https://github.com/yukkibr)
+- 👨‍💻 All of my projects are available at [YukkiBR](https://github.com/yukkibr)
 
 - 💬 Ask me about **Lua, C, C++, C# or another i can help**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/eduuh_campos20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduuh_campos20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yukkibr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yukkibr" height="30" width="40" /></a>
-<a href="https://discord.gg/177593528455659520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="177593528455659520" height="30" width="40" /></a>
+<a href="https://discord.gg/3EWVyxfFRK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="177593528455659520" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
