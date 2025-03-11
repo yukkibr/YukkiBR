@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukkibr&label=Profile%20views&color=0e75b6&style=flat" alt="yukkibr" /> </p>
 
-- 🔭 I’m currently working on **Base Prodigy 1.0**
+- 🔭 I’m currently working on **Prodigy Developments**
 
 - 🌱 I’m currently learning **Lua and CEF**
 
