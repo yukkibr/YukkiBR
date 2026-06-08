@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukkibr&label=Profile%20views&color=0e75b6&style=flat" alt="yukkibr" /> </p>
 
-- 🔭 I’m currently working on **Prodigy Developments**
+- 🔭 I’m currently working on **Project Hikari**
 
 - 🌱 I’m currently learning **Lua and CEF**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **FiveM And MTA**
 
-- 👨‍💻 All of my projects are available at [YukkiBR](https://github.com/yukkibr)
+- 👨‍💻 All the docs for my projects are available at [Project Hikari](https://docs.pjthikari.dev/)
 
 - 💬 Ask me about **Lua, C, C++, C# or another i can help**
 
@@ -19,11 +19,11 @@
 
 - ⚡ Fun fact **I'm trying to be a game developer!**
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/yukkibr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yukkibr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
