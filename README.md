@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Lua and CEF**
 
-- 👯 I’m looking to collaborate on **Fivem Developers**
+- 👯 I’m looking to collaborate on **FrontEnd and BackEnd Devs**
 
 - 🤝 I’m looking for help with **FiveM And MTA**
 
