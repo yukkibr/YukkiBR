@@ -41,7 +41,7 @@
 
 ---
 
-### 👾 GitHub Stats
+<h3 align="center">👾 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=yukkibr&theme=midnight&custom_title=My+Stats" alt="GitHub Stats Card" />
