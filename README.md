@@ -8,16 +8,36 @@
 
 ---
 
-<h3 align="left">🌌 Sobre mim</h3>
+<h3 align="center">🌌 Sobre mim</h3>
 
-<ul>
-  <li>🔭 Trabalhando atualmente no <strong>Project Hikari</strong></li> <li>🌱 Aprendendo <strong>Lua e CEF</strong></li>
-  <li>👯 Buscando colaboração em desenvolvimento <strong>FrontEnd e BackEnd</strong></li> <li>🤝 Procurando ajuda com <strong>FiveM e MTA</strong></li>
-  <li>👨‍💻 Toda a documentação dos meus projetos está no <a href="https://docs.pjthikari.dev/"><strong>Project Hikari</strong></a></li>
-  <li>💬 Pergunte-me sobre <strong>Lua, C, C++, C# ou qualquer outra coisa que eu possa ajudar</strong></li>
-  <li>📫 Como me encontrar: <strong>é só me mandar mensagem no Discord</strong></li>
-  <li>⚡ Curiosidade: <strong>Estou tentando me tornar um desenvolvedor de jogos!</strong></li>
-</ul>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">🔭</td>
+      <td>Trabalhando atualmente no <strong>Project Hikari</strong></td>
+      <td align="center">👯</td>
+      <td>Buscando colaboração em <strong>FrontEnd & BackEnd</strong></td>
+    </tr>
+    <tr>
+      <td align="center">🌱</td>
+      <td>Aprendendo <strong>Lua e CEF</strong></td>
+      <td align="center">🤝</td>
+      <td>Procurando ajuda com <strong>FiveM e MTA</strong></td>
+    </tr>
+    <tr>
+      <td align="center">👨‍💻</td>
+      <td>Toda a documentação está no <a href="https://docs.pjthikari.dev/"><strong>Project Hikari</strong></a></td>
+      <td align="center">💬</td>
+      <td>Pergunte sobre <strong>Lua, C, C++, C# ou outros</strong></td>
+    </tr>
+    <tr>
+      <td align="center">⚡</td>
+      <td>Curiosidade: <strong>Tentando ser um desenvolvedor de jogos!</strong></td>
+      <td align="center">📫</td>
+      <td>Como me encontrar: <strong>me mande DM no Discord</strong></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
