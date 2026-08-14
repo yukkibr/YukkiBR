@@ -50,7 +50,7 @@
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
 <div align="center">
   <!-- O Skillicons gera uma grade de ícones responsiva automaticamente -->
@@ -61,7 +61,7 @@
 
 ---
 
-### 🔗 Conecte-se comigo
+<h3 align="center">🔗 Conecte-se comigo</h3>
 
 <div align="center">
   <a href="https://instagram.com/eduuh_campos20" target="_blank">
