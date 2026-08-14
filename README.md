@@ -25,9 +25,7 @@
 ### 👾 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/yukkibr">
-    <img src="https://github-readme-stats.vercel.app/api?username=yukkibr&show_icons=true&bg_color=0D0814&title_color=b8860b&text_color=c4b5fd&icon_color=8b5cf6&border_color=3b0764&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-  </a>
+  <img src="https://ghstats.dev/api/card?username=yukkibr&theme=midnight&custom_title=My+Stats" alt="GitHub Stats Card" />
   <a href="https://github.com/yukkibr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukkibr&layout=compact&bg_color=0D0814&title_color=b8860b&text_color=c4b5fd&border_color=3b0764&hide_border=false" alt="Top Languages" />
   </a>
