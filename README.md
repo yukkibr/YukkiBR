@@ -1,6 +1,6 @@
 <!-- Banner Animado Midnight Purple -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=280137,220033,280137&text=Eduardo%20%22YukkiBR%22%20Campos&fontAlignY=35&fontSize=45&desc=Fullstack%20Developer%20&descAlignY=55&descSize=20&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=280137,220033,280137&text=Eduardo%20%22YukkiBR%22%20Campos&fontAlignY=35&fontSize=45&desc=Fullstack%20Developer%20&descAlignY=55&descSize=20&fontColor=000000" />
 </div>
 
 <p align="center">
