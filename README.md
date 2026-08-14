@@ -26,9 +26,7 @@
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=yukkibr&theme=midnight&custom_title=My+Stats" alt="GitHub Stats Card" />
-  <a href="https://github.com/yukkibr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukkibr&layout=compact&bg_color=0D0814&title_color=b8860b&text_color=c4b5fd&border_color=3b0764&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="https://ghstats.dev/api/langs?username=yukkibr&theme=midnight&hide_title=true&custom_title=My+Stats&layout=donut_vertical" alt="Top Languages" />
 </div>
 
 ---
