@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yukkibr&label=Profile%20views&color=5b21b6&style=flat-square" alt="yukkibr" />
+  <img src="https://komarev.com/ghpvc/?username=yukkibr&label=Profile%20views&color=4B0082&style=for-the-badge" alt="yukkibr" />
 </p>
 
 ---
