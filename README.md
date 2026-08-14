@@ -1,4 +1,3 @@
-<!-- Banner Animado Midnight Purple -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b001a,50:170033,100:23004d&text=Eduardo%20%22YukkiBR%22%20Campos&fontAlignY=35&fontSize=45&desc=Fullstack%20Developer&descAlignY=55&descSize=20&fontColor=ffffff" />
 </div>
