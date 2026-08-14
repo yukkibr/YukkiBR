@@ -8,16 +8,18 @@
 
 ---
 
-### 🌌 Sobre mim
+<h3 align="left">🌌 Sobre mim</h3>
 
-- 🔭 Trabalhando atualmente no **Project Hikari**
-- 🌱 Aprendendo **Lua e CEF**
-- 👯 Buscando colaboração em desenvolvimento **FrontEnd e BackEnd**
-- 🤝 Procurando ajuda com **FiveM e MTA**
-- 👨‍💻 Toda a documentação dos meus projetos está no [Project Hikari](https://docs.pjthikari.dev/)
-- 💬 Pergunte-me sobre **Lua, C, C++, C# ou qualquer outra coisa que eu possa ajudar**
-- 📫 Como me encontrar: **é só me mandar mensagem no Discord**
-- ⚡ Curiosidade: **Estou tentando me tornar um desenvolvedor de jogos!**
+<ul>
+  <li>🔭 Trabalhando atualmente no <strong>Project Hikari</strong></li>
+  <li>🌱 Aprendendo <strong>Lua e CEF</strong></li>
+  <li>👯 Buscando colaboração em desenvolvimento <strong>FrontEnd e BackEnd</strong></li>
+  <li>🤝 Procurando ajuda com <strong>FiveM e MTA</strong></li>
+  <li>👨‍💻 Toda a documentação dos meus projetos está no <a href="https://docs.pjthikari.dev/"><strong>Project Hikari</strong></a></li>
+  <li>💬 Pergunte-me sobre <strong>Lua, C, C++, C# ou qualquer outra coisa que eu possa ajudar</strong></li>
+  <li>📫 Como me encontrar: <strong>é só me mandar mensagem no Discord</strong></li>
+  <li>⚡ Curiosidade: <strong>Estou tentando me tornar um desenvolvedor de jogos!</strong></li>
+</ul>
 
 ---
 
